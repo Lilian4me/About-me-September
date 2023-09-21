@@ -1,14 +1,14 @@
 // some conditionals!!
 
-let answer1 = confirm("ArRE YOU READY TO RUMMMMMBLLEE!!!");
+let answer1 = confirm("ARE YOU READY TO HAVE FUN!!!");
 // = (assignment operator)
 // == (only check value - equality checking)
 // === (check value and data type - equality checking )
 
 if (answer1 === true) {
-  console.log('YOU"RE READY TO RUMBLE!!');
+  console.log("I AM READY !!");
 } else {
-  console.log("You have no power here!");
+  console.log("I AM NOT IN THE MOOD!");
 }
 
 console.log(answer1);

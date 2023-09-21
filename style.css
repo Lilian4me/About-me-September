@@ -1,18 +1,18 @@
 p {
-  color: red;
+  color: rgb(19, 11, 11);
 }
 
 .hero-text {
   font-family: fantasy;
   color: hotpink;
-  background-color: aquamarine;
+  background-color: rgb(98, 186, 157);
 }
 
 body {
-  background-color: greenyellow;
+  background-color: linen;
   scroll-behavior: smooth;
 }
 
 #notice {
-  font-size: 2rem;
+  font-size: 3rem;
 }
